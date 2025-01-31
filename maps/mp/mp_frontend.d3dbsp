@@ -1,0 +1,495 @@
+{
+66196 "1 1 1"
+66210 "0"
+4524 "1 1 1"
+337 "1"
+57 "0.0"
+157 "worldspawn"
+720 "-45 0 0"
+719 "1 0.968627 0.913725"
+721 ".1"
+66201 "1"
+66199 ".5"
+6415 "1"
+51962 "1"
+29493 "1"
+36112 "1"
+66212 "17 0 0"
+543 "0 0 0"
+4435 "b0_e0"
+5036 "20 0 0 0"
+}
+{
+543 "2432 0 64"
+65 "0 135 0"
+157 "info_player_start"
+}
+{
+543 "2480 192 12"
+157 "node_pathnode"
+}
+{
+543 "2432 192 12"
+157 "node_pathnode"
+}
+{
+543 "2464 240 12"
+157 "node_pathnode"
+}
+{
+543 "1856 -320 416"
+65 "0 48 0"
+157 "mp_global_intermission"
+}
+{
+528 "1"
+60863 "airdrop_pallet"
+822 "pf2_auto1"
+157 "script_brushmodel"
+543 "1664 256 2"
+497 "*1"
+}
+{
+820 "pf2_auto1"
+822 "airdrop_crate"
+543 "1664 256 2"
+157 "script_model"
+497 "com_plasticcase_beige_big_iw6"
+}
+{
+822 "camera_mp_hq1"
+543 "-70.4993 -4073.9 345"
+157 "script_origin"
+65 "0 180.15 0"
+}
+{
+822 "character_loc_hq1"
+543 "-165.499 -4076.5 296"
+157 "script_origin"
+65 "0 1.00179e-05 0"
+}
+{
+822 "camera_mp_hq1_rig"
+543 "-67.9993 -4096.2 344"
+157 "script_origin"
+65 "0 183.7 0"
+}
+{
+822 "camera_mp_hq1_cac"
+543 "-67.9993 -4096.2 344"
+157 "script_origin"
+65 "0 183.7 0"
+}
+{
+822 "camera_mp_hq1_weapon"
+543 "-587.699 -4101.8 339.2"
+157 "script_origin"
+65 "0 210.8 0"
+}
+{
+65 "8.52028 331.225 -8.92013"
+822 "weapon_loc_hq1"
+543 "-633.499 -4120.5 338.9"
+157 "script_origin"
+}
+{
+822 "camera_mp_hq1_weapon_02"
+543 "-574.899 -4100.8 339.2"
+157 "script_origin"
+65 "0 210.8 0"
+}
+{
+822 "camera_mp_hq3"
+543 "47.5 26.1 345"
+157 "script_origin"
+65 "0 180.15 0"
+}
+{
+822 "character_loc_hq3"
+543 "-47.5 23.5 296"
+157 "script_origin"
+}
+{
+822 "camera_mp_hq3_rig"
+543 "50 3.8 344"
+157 "script_origin"
+65 "0 183.7 0"
+}
+{
+822 "camera_mp_hq3_cac"
+543 "50 3.8 344"
+157 "script_origin"
+65 "0 183.7 0"
+}
+{
+822 "camera_mp_hq3_weapon"
+543 "-469.7 -1.8 339.2"
+157 "script_origin"
+65 "0 210.8 0"
+}
+{
+65 "8.52028 331.225 -8.92013"
+822 "weapon_loc_hq3"
+543 "-515.5 -20.5 338.9"
+157 "script_origin"
+}
+{
+822 "camera_mp_hq3_weapon_02"
+543 "-456.9 -0.8 339.2"
+157 "script_origin"
+65 "0 210.8 0"
+}
+{
+822 "character_loc_lobby_members"
+543 "14.9 13453 296"
+157 "script_origin"
+}
+{
+822 "camera_mp_lobby_members"
+543 "109.9 13444 345"
+157 "script_origin"
+65 "0 179.55 0"
+}
+{
+822 "camera_mp_hq4"
+543 "47.5 2266.1 345"
+157 "script_origin"
+65 "0 180.15 0"
+}
+{
+822 "character_loc_hq4"
+543 "-47.5 2263.5 296"
+157 "script_origin"
+}
+{
+822 "camera_mp_hq4_rig"
+543 "50 2243.8 344"
+157 "script_origin"
+65 "0 183.7 0"
+}
+{
+822 "camera_mp_hq4_cac"
+543 "50 2243.8 344"
+157 "script_origin"
+65 "0 183.7 0"
+}
+{
+822 "camera_mp_hq4_weapon"
+543 "-469.7 2238.2 339.2"
+157 "script_origin"
+65 "0 210.8 0"
+}
+{
+65 "8.52028 331.225 -8.92013"
+822 "weapon_loc_hq4"
+543 "-515.5 2219.5 338.9"
+157 "script_origin"
+}
+{
+822 "camera_mp_hq4_weapon_02"
+543 "-456.9 2239.2 339.2"
+157 "script_origin"
+65 "0 210.8 0"
+}
+{
+822 "camera_mp_hq5_weapon_02"
+543 "-456.9 4287.2 339.2"
+157 "script_origin"
+65 "0 210.8 0"
+}
+{
+822 "camera_mp_hq5"
+543 "47.5 4314.1 345"
+157 "script_origin"
+65 "0 180.15 0"
+}
+{
+822 "character_loc_hq5"
+543 "-47.5 4311.5 296"
+157 "script_origin"
+}
+{
+822 "camera_mp_hq5_rig"
+543 "50 4291.8 344"
+157 "script_origin"
+65 "0 183.7 0"
+}
+{
+822 "camera_mp_hq5_cac"
+543 "50 4291.8 344"
+157 "script_origin"
+65 "0 183.7 0"
+}
+{
+822 "camera_mp_hq5_weapon"
+543 "-469.7 4286.2 339.2"
+157 "script_origin"
+65 "0 210.8 0"
+}
+{
+65 "8.52028 331.225 -8.92013"
+822 "weapon_loc_hq5"
+543 "-515.5 4267.5 338.9"
+157 "script_origin"
+}
+{
+822 "camera_mp_hq6_weapon_02"
+543 "-456.9 6335.2 339.2"
+157 "script_origin"
+65 "0 210.8 0"
+}
+{
+822 "camera_mp_hq6"
+543 "47.5 6362.1 345"
+157 "script_origin"
+65 "0 180.15 0"
+}
+{
+822 "character_loc_hq6"
+543 "-47.5 6359.5 296"
+157 "script_origin"
+}
+{
+822 "camera_mp_hq6_rig"
+543 "50 6339.8 344"
+157 "script_origin"
+65 "0 183.7 0"
+}
+{
+822 "camera_mp_hq6_cac"
+543 "50 6339.8 344"
+157 "script_origin"
+65 "0 183.7 0"
+}
+{
+822 "camera_mp_hq6_weapon"
+543 "-469.7 6334.2 339.2"
+157 "script_origin"
+65 "0 210.8 0"
+}
+{
+65 "8.52028 331.225 -8.92013"
+822 "weapon_loc_hq6"
+543 "-515.5 6315.5 338.9"
+157 "script_origin"
+}
+{
+822 "character_loc_hq2"
+543 "-47.5 -1812 296"
+157 "script_origin"
+}
+{
+822 "camera_mp_hq2"
+543 "130.5 -1930.5 347"
+157 "script_origin"
+65 "0 180.15 0"
+}
+{
+822 "camera_mp_hq2_rig"
+543 "50 -1831.7 344"
+157 "script_origin"
+65 "0 183.7 0"
+}
+{
+822 "camera_mp_lan_default"
+543 "130.5 -1930.5 347"
+157 "script_origin"
+65 "0 180.15 0"
+}
+{
+822 "camera_mp_hq2_cac"
+543 "50 -1831.7 344"
+157 "script_origin"
+65 "0 183.7 0"
+}
+{
+822 "camera_mp_hq2_weapon"
+543 "-469.7 -1837.3 339.2"
+157 "script_origin"
+65 "0 210.8 0"
+}
+{
+65 "8.52028 331.225 -8.92013"
+822 "weapon_loc_hq2"
+543 "-515.5 -1856 338.9"
+157 "script_origin"
+}
+{
+822 "camera_mp_hq2_weapon_02"
+543 "-456.9 -1836.3 339.2"
+157 "script_origin"
+65 "0 210.8 0"
+}
+{
+65 "355 180 -1.19059e-06"
+822 "camera_mp_taunt"
+543 "192 10240 335"
+157 "script_origin"
+}
+{
+822 "character_loc_hq7"
+543 "62.9 10269 296"
+157 "script_origin"
+}
+{
+822 "camera_mp_rig_select"
+543 "157.9 10260 349"
+157 "script_origin"
+65 "0 179.55 0"
+}
+{
+822 "camera_mp_hq7"
+543 "282.2 10278.5 339.3"
+157 "script_origin"
+65 "0 198.425 0"
+}
+{
+822 "camera_mp_hq7_cac"
+543 "273.7 10301 339.5"
+157 "script_origin"
+65 "0 215.625 0"
+}
+{
+822 "camera_mp_hq7_weapon"
+543 "-367.9 9893.8 336.8"
+157 "script_origin"
+65 "0 206.825 0"
+}
+{
+822 "camera_mp_hq7_rig"
+543 "263.5 10309.3 339.5"
+157 "script_origin"
+65 "357.838 190.137 -0.810671"
+}
+{
+65 "8.52028 327.249 -8.92013"
+822 "weapon_loc_hq7"
+543 "-414.8 9878.3 336.5"
+157 "script_origin"
+}
+{
+822 "camera_mp_hq7_weapon_02"
+543 "-355 9893.8 336.8"
+157 "script_origin"
+65 "0 206.825 0"
+}
+{
+822 "camera_mp_rig_head"
+543 "157.9 10260 345"
+157 "script_origin"
+65 "355 179.55 1.19058e-06"
+}
+{
+822 "camera_mp_rig_traits"
+543 "-292.2 10037.6 285.8"
+157 "script_origin"
+65 "0 180 0"
+}
+{
+822 "camera_mp_gun_painter_02"
+543 "-456.9 14591.2 474.7"
+157 "script_origin"
+65 "0 210.8 0"
+}
+{
+822 "camera_mp_gun_painter_01"
+543 "-469.7 14590.2 474.7"
+157 "script_origin"
+65 "0 210.8 0"
+}
+{
+65 "8.52028 331.225 -8.92013"
+822 "weapon_loc_painter"
+543 "-515.5 14571.5 474.4"
+157 "script_origin"
+}
+{
+822 "camera_mp_main"
+543 "188.3 -6254 360"
+157 "script_origin"
+65 "0 180 0"
+}
+{
+822 "character_loc_mp_main"
+543 "111 -6249 296"
+157 "script_origin"
+65 "0 269.999 0"
+}
+{
+822 "character_loc_broshot"
+543 "52 8492 296"
+157 "script_origin"
+65 "0 10 0"
+}
+{
+822 "character_loc_broshot_a"
+543 "20 8428 296"
+157 "script_origin"
+65 "0 25 0"
+}
+{
+822 "character_loc_broshot_b"
+543 "12 8548 296"
+157 "script_origin"
+65 "0 340 0"
+}
+{
+65 "345 193.5 -3.53557e-06"
+822 "camera_mp_broshot_blops_pan"
+543 "172.8 8518 401.8"
+157 "script_origin"
+}
+{
+65 "0 193.5 0"
+822 "camera_mp_broshot_zoom_intro"
+543 "235.032 8532.94 369.8"
+157 "script_origin"
+}
+{
+65 "355 193.5 -1.19059e-06"
+822 "camera_mp_broshot"
+543 "172.8 8518 329.8"
+157 "script_origin"
+}
+{
+822 "weapon_loc_screenshot_1"
+543 "-2309.3 -6224 337.5"
+157 "script_origin"
+65 "0 298 0"
+}
+{
+822 "camera_weapon_screenshot_1"
+543 "-2249.5 -6231.7 337.8"
+157 "script_origin"
+65 "0 178.8 0"
+}
+{
+822 "weapon_loc_screenshot_2"
+543 "-2309.3 -4112 337.5"
+157 "script_origin"
+65 "0 298 0"
+}
+{
+822 "camera_weapon_screenshot_2"
+543 "-2249.5 -4119.7 337.8"
+157 "script_origin"
+65 "0 178.8 0"
+}
+{
+822 "loot_box"
+65 "0 17.7896 0"
+543 "100.5 12310.3 287"
+157 "script_origin"
+}
+{
+822 "character_loc_armory"
+543 "117.5 12364.9 286.7"
+157 "script_origin"
+65 "0 332.2 0"
+}
+{
+822 "camera_mp_armory"
+543 "232 12344 338"
+157 "script_origin"
+65 "1.00179e-05 180.15 2.39079e-12"
+}
